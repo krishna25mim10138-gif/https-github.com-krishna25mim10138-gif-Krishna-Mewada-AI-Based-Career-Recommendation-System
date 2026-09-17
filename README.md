@@ -1,4 +1,4 @@
-<img width="890" height="185" alt="image" src="https://github.com/user-attachments/assets/18123ce0-e38a-4697-8b5c-12115c974066" /># https-github.com-krishna25mim10138-gif-Krishna-Mewada-AI-Based-Career-Recommendation-System
+
 AI Based Career Recommendation System
 
 About
